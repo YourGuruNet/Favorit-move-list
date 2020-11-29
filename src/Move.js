@@ -102,7 +102,7 @@ const InfoButton = styled.button`
   background-color: var(--mainColorDark2);
   border: solid 0.1rem var(--mainColorLight);
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.3s;
 
   :hover {
     color: var(--mainColorDark2);
